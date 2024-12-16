@@ -1,0 +1,15 @@
+# Ignore the .env file
+.env
+
+# Ignore Python virtual environment directories
+venv/
+env/
+nutrimonitor/
+
+# Ignore system files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore Jupyter Notebook checkpoints (if using Jupyter)
+.ipynb_checkpoints/
